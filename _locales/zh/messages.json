@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "关于"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "Extension's description",
+    "message": "集合多种 Steam 库存以及市场的实用工具 (报价通知、快速出售、快速购买、交易报价、检查价格……)"
+  },
+  "faq": {
+    "description": "Frequently asked questions",
+    "message": "帮助"
+  },
+  "langcode": {
+    "description": "",
+    "message": "zh"
+  },
+  "settings": {
+    "description": "",
+    "message": "设置"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "自动回复"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "屏蔽以下邀请"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "购买套装按钮"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "货币"
+  },
+  "settings_custombuttons": {
+    "description": "Manage custom buttons for trade offer windows",
+    "message": "自定义按钮"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "显示通知"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Show vector price"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "价格过高时高亮显示"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "忽略以下邀请"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "语言"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "列表延迟"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "历史页面大小"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "列表显示数量"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "通知声音"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "音量"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "你需要刷新当前页面使更改生效"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "拒绝无效报价"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "检查报价价格延迟"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "报价时自动获取价格"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "快速购买按钮"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "快速出售按钮"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "快速出售差值"
+  },
+  "settings_showsteamrep": {
+    "description": "Show Steamrep panel on invites page",
+    "message": "邀请页显示Steam信用评论"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "简化 UI"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "总行数"
+  }
+}

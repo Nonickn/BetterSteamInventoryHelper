@@ -1,0 +1,11 @@
+﻿.question {
+    margin-bottom: 5px;
+}
+
+.answer {
+    margin-bottom: 10px;
+}
+
+.detail-content {
+    display:none;
+}

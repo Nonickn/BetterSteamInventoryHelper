@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "О нас"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "extension_description": {
+    "description": "Описание расширения",
+    "message": "Добавляет функциональные возможности инвентаря Steam и торговой площадки  (уведомления о предложениях, быстрая продажа, покупка, предложения обмена, проверка цены...)"
+  },
+  "faq": {
+    "description": "Часто задаваемые вопросы",
+    "message": "ЧаВо"
+  },
+  "langcode": {
+    "description": "",
+    "message": "ru"
+  },
+  "settings": {
+    "description": "",
+    "message": "Настройки"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Автоматический ответ"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Заблокировать приглашения ниже"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "Кнопки \"Куить набор\""
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Валюта"
+  },
+  "settings_custombuttons": {
+    "description": "Управление пользовательскими кнопками в окне обмена",
+    "message": "Пользовательские кнопки"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Показывать уведомления"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Показывать вектор цены"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Подсвечивать переоцененные"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Игнорировать предложения ниже"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Язык"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Задержка между объявлениями"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Размер страницы истории"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Количество объявлений"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Звук уведомления"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Громкость звука"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Обновите текущие страницы, чтобы изменения вступили в силу"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Отменять недоступные предложения"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Задержка проверки цены предложения"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Автоматически загружать цену при обмене"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "Кнопки \"Быстрая покупка\""
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "Кнопки \"Быстрая продажа\""
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Разница при быстрой продаже"
+  },
+  "settings_showsteamrep": {
+    "description": "Показывать панель репутации на сранице приглашений",
+    "message": "Показывать репутацию"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Упрощенный интерфейс"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "В общем"
+  }
+}

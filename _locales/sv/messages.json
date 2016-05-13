@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "Om"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "Tillägets beskrivning",
+    "message": "Erbjuder många verktyg för steam förrådet och marknaden (Erbjuder notiser, snabb säljning/köpning och byten med priskontroller...)"
+  },
+  "faq": {
+    "description": "Frequently asked questions",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "sv"
+  },
+  "settings": {
+    "description": "",
+    "message": "Alternativ"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Auto svara"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Blockera inbjudningar under"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Köp uppsättning\" knappa"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Valuta"
+  },
+  "settings_custombuttons": {
+    "description": "Hantera anpassade knappar för bytes erbjudande fönsterna",
+    "message": "Anpassade knappar"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Visa notis"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Visa vektor pris"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Markera för dyra"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignorera inbjudningar under"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Språk"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Fördröjning mellan varje försäljning"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Historikens sid storlek"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Antalet försäljningar"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Notis ljud"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "ljud volym"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Du måste hämta alla aktiva sidor igen for att förändringarna ska gälla"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "neka otillgängliga erbjudanden"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Erbjudandes priskontroll fördröjning"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Hitta priser automatiskt under erbjudanden"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Snabb köp\" knappa"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Snabb sälj\" knapp"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Snabb sälj skillnad"
+  },
+  "settings_showsteamrep": {
+    "description": "Visa Steamrep panel på inbjudnings sidan",
+    "message": "Visa Steamrep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Förenkla UI"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Total rad"
+  }
+}

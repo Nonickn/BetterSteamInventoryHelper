@@ -1,0 +1,126 @@
+{
+  "about": {
+    "description": "",
+    "message": "შესახებ"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "აღწერა",
+    "message": "გვაწვდის მრავალ მოსახერხებელ დამატებებს steam-ის ინვენტარისა და მარკეტისათვის (შემოთავაზების შეტყობინება, სწრაფი გაყიდვა, ყიდვა, მიმოცვლის შეთავაზება, ფასის შემოწმება...)"
+  },
+  "faq": {
+    "description": "ხშირად დასმული კითხვები",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "ka"
+  },
+  "settings": {
+    "description": "",
+    "message": "პარამეტრები"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"სეტის ყიდვა\" ღილაკი"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "ვალუტა"
+  },
+  "settings_custombuttons": {
+    "description": "კერზო ღილაკების კონფიგურაცია",
+    "message": "კერძო ღილაკი"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "შეტყობინებების ჩვენება"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "ვექტორული ფასის ჩვენება"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "ენა"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "History page size"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Number of listings"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "შეტყობინებების ხმა"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Sound volume"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "ცვლილებების დასანახად გვერდის განახლებაა საჭირო"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Decline unavailable offers"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "ფასის შემოწმების შეფერხება"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "ფასების ავტომატური მიღება"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"სწრაფი ყიდვა\" ღილაკი"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"სწრაფი გაყიდვა\" ღილაკი"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "სწრაფი გაყიდვის განსხვავება"
+  },
+  "settings_showsteamrep": {
+    "description": "აჩვენე Steamrep მოწვევების გვერძე",
+    "message": "Steamrep-ის ჩვენება"
+  },
+  "settings_simpify": {
+    "message": "გაამარტივებს UI",
+    "description": ""
+  },
+  "settings_autoreply": {
+    "message": "Auto reply",
+    "description": ""
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "ჯამური მწკრივი"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Highlight overpriced"
+  },
+  "settings_ignoreinvites": {
+    "message": "Ignore invites below",
+    "description": ""
+  },
+  "settings_blockinvites": {
+    "message": "Block invites below",
+    "description": ""
+  },
+  "settings_listdelay": {
+    "message": "Delay between listings",
+    "description": ""
+  }
+}

@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "Informācija"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Grāmatzīmes"
+  },
+  "extension_description": {
+    "description": "Paplašinājuma apraksts",
+    "message": "Piedāvā vairākus rīkus priekš steam inventāra un tirgus (piedāvājumu paziņojumi, Ātrā pirkšāna un pārdošana, maiņas piedāvājumi, cenu pārbaudes...)"
+  },
+  "faq": {
+    "description": "Biežāk uzdotie jautājumi",
+    "message": "BUJ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "lv"
+  },
+  "settings": {
+    "description": "",
+    "message": "Uzstādijumi"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Automātiskā atbilde"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Bloķēt zemākesošos uzaicinājumus"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Nopirkt kopu\" Pogas"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Valūta"
+  },
+  "settings_custombuttons": {
+    "description": "Ļauj modificēt pogas priekš maiņas piedāvājumu logiem",
+    "message": "Modificēt pogas"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Rādīt paziņojumus"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Rādīt vektora cenas"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Izcelt dārgākos"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignorēt zemākesošos uzaicinājumus"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Valodad"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Laika starpība starp sarakstiem"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Vēstures lapas izmērs"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Sarakstu skaits"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Paziņojuma skaņā"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Skaņas skaļums"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Tev jāpārlādē lapa lai veiktu izmaiņas"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Noraidīt nepieejamos piedāvājumus"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Piedāvājuma cenas taimeris"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Automātiski saņemt cenas par piedāvājumu"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Ātrā pirkšana\" poga"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Ātrā pārdošana\" poga"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Ātrās pārdošanas dif"
+  },
+  "settings_showsteamrep": {
+    "description": "Parādīt steam reputācijas paneli uzaicinājumu lapā",
+    "message": "Parādīt steam reputāciju"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Vienkāršot izklājumu"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Kopējā rinda"
+  }
+}

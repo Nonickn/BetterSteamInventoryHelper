@@ -1,0 +1,159 @@
+body {
+    font-family: Verdana, Tahoma, Geneva, 'DejaVu Sans', sans-serif;
+    font-size: 9pt;
+}
+
+label {
+    white-space: nowrap;
+}
+
+.main-panel {
+    padding: 10px;
+    min-width: 600px;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 14px;
+    margin: 0px;
+    padding: 4px 5px;
+    background: #44ffff;
+}
+
+.left,
+.right {
+    float: left;
+}
+
+.left {
+    height: 20px;
+    line-height: 20px;
+    width: 170px;
+}
+
+.right {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 170px;
+    margin-left: -170px;
+}
+
+.tabs {
+    display: block;
+    height: 30px;
+    background: #eee;
+}
+
+    .tabs .tab {
+        float: left;
+        display: block;
+        line-height: 28px;
+        padding: 0px 14px;
+        margin: 1px;
+        text-decoration: none;
+    }
+
+    .tabs .active {
+        font-weight: bold;
+        border: #000 1px solid;
+        margin: 0px 1px;
+        background: #FFF;
+    }
+
+.content {
+    padding: 10px 0px;
+}
+
+    .content a.email {
+        text-decoration: none;
+        color: #777;
+    }
+
+        .content a.email:hover {
+            color: #333;
+        }
+
+
+    .content a.link {
+        display: block;
+        margin: 10px 0px;
+    }
+
+    .content .row {
+        padding: 6px 0px;
+    }
+
+.row:after {
+    display: block;
+    height: 1px;
+    clear: both;
+    content: '';
+}
+
+input.number {
+    height: 10px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.email {
+    color: #808080;
+}
+
+    .email a {
+        text-decoration: none;
+        font-weight: bold;
+        color: #808080;
+    }
+
+        .email a:hover {
+            color: #000;
+        }
+
+.hd1 {
+    background: #697983;
+    color: #FFF;
+    line-height: 34px;
+    padding-left: 20px;
+    margin: 3px 0px;
+}
+
+.cnt {
+}
+
+
+    .cnt ul {
+    }
+
+
+.table {
+    border-collapse: collapse;
+    margin:auto;
+    border-color:#5533ff;
+}
+
+.table thead tr th{
+    background:#5533ff;
+    color:#FFF;
+    font-weight:bold;
+
+}
+
+    .table tr td {
+        padding:2px 5px;
+    }
+
+    

@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "O nás"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Záložky"
+  },
+  "extension_description": {
+    "description": "Popis rozšíøení",
+    "message": "Poskytuje mnoho pomocných programú pro steam inventory a obchod (Trade notifikace, rychlé prodávání, buying, ponouknutí tradu, price check...)"
+  },
+  "faq": {
+    "description": "Èasto kladené otázky",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "cs"
+  },
+  "settings": {
+    "description": "",
+    "message": "Nastavení"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Automatická odpovìï"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Zablokovat tyto žádosti"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Koupit set\" tlaèídla"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Mìna"
+  },
+  "settings_custombuttons": {
+    "description": "Upravovat custom tlaèídla pro okna trade offerù",
+    "message": "Custom tlaèídla"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Zobrazit notofikace"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Zobrazit vektorovou cenu"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Vyznaèit itemy s vysokou cenou"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignorovat tyto pozvánky"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Jazyk"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Onìskoøení medzi listingama"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Velikost strany historie"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Poèet listingù"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Notifikaèní zvuk"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Hlasitost zvuku"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Pro uložení nastavení, prosím refrešnìte tuhle stránku"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Zamítnou nedostupné ponuky"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Zpoždìní medzi price checkem"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Automaticky získat cenu itemù pøi ponuce"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Rychle nakoupit\" tlaèidlo"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Rychle prodat\" tlaèidlo"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Rychle prodat dif"
+  },
+  "settings_showsteamrep": {
+    "description": "Zobrazí STEAMREP na stránce pozvánek",
+    "message": "Zobrazit STEAMREP"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Zjednodušit UI"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Cena celkem"
+  }
+}

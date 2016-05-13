@@ -1,0 +1,126 @@
+{
+  "about": {
+    "description": "",
+    "message": "A propos"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Marque page"
+  },
+  "extension_description": {
+    "description": "Description de l'extension",
+    "message": "Vous offre beaucoup de possibilitées pour votre inventaire steam et le marché (notification d'échange, vente rapide, acheter, proposer des échanges, vérifier les prix)"
+  },
+  "faq": {
+    "description": "Questions fréquement posées",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "fr"
+  },
+  "settings": {
+    "description": "",
+    "message": "Paramètres"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Réponse automatique"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Bloquer les invitations ci-dessous"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Acheter l'ensemble\" buttons"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Monnaie"
+  },
+  "settings_custombuttons": {
+    "description": "Créez un button personnalisé pour les offres d'échange",
+    "message": "Button personnalisé"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Afficher les notifications"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Afficher le vecteur du prix"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Plus haut prix sur le marché"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignorer les invitations ci-dessous"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Langue"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Délai entre chaque objet lister sur le marché"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Taille de la page de l'historique"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Nombre d'objet à vendre"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Son de notification"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Volume du son"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Vous devez recharger la page pour que les changements s'appliquent"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Refuser les offres invalides"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Temps de vérification du prix des objets dans un échange"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Avoir les prix automatiquement lors d'une offre"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Achat rapide\" buttons"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Vente rapide\" button"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Quick sell dif"
+  },
+  "settings_showsteamrep": {
+    "description": "Montrez le Steamrep sur la page des invatations",
+    "message": "Montrez son Steamrep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Simplifier l'interface utilisateur"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Toute la rangée"
+  }
+}

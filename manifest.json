@@ -1,0 +1,106 @@
+{
+  "manifest_version": 2,
+  "name": "Steam inventory helper",
+  "short_name": "SIH",
+  "description": "__MSG_extension_description__",
+  "default_locale": "en",
+  "version": "1.8.9.1",
+  "background": {
+    "scripts": [ "js/jquery-1.10.2.min.js", "js/offernof.js" ],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/json2.js", "js/tradeoffer.js", "js/common/settings.js" ],
+      "matches": [ "*://steamcommunity.com/tradeoffer/*", "*://steamcommunity.com/trade/*" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/json2.js", "js/gifts.js" ],
+      "matches": [ "*://*.steampowered.com/checkout/sendgift/*" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/inventprice.js", "js/common/settings.js" ],
+      "matches": [
+        "*://steamcommunity.com/id/*/inventory",
+        "*://steamcommunity.com/id/*/inventory/*",
+        "*://steamcommunity.com/profiles/*/inventory",
+        "*://steamcommunity.com/profiles/*/inventory/*"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/profile.js" ],
+      "matches": [ "*://steamcommunity.com/id/*", "*://steamcommunity.com/profiles/*" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/tradeofferrev.js" ],
+      "matches": [
+        "*://steamcommunity.com/id/*/tradeoffers/*",
+        "*://steamcommunity.com/profiles/*/tradeoffers/*",
+        "*://steamcommunity.com/id/*/tradeoffers",
+        "*://steamcommunity.com/profiles/*/tradeoffers"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/listing.js" ],
+      "matches": [ "*://steamcommunity.com/market/listings/*" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/market.js" ],
+      "matches": [ "*://steamcommunity.com/market/", "*://steamcommunity.com/market" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/badge.js" ],
+      "matches": [ "*://steamcommunity.com/id/*/gamecards/*", "*://steamcommunity.com/profiles/*/gamecards/*" ],
+      "run_at": "document_end"
+    },
+    {
+      "js": [ "js/jquery-1.10.2.min.js", "js/invites.js" ],
+      "matches": [ "*://steamcommunity.com/id/*/invites/*", "*://steamcommunity.com/profiles/*/invites/*" ],
+      "run_at": "document_end"
+    }
+  ],
+
+  "icons": {
+    "16": "assets/icon16.png",
+    "19": "assets/icon19.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "browser_action": {
+    "default_title": "Steam inventory helper",
+    "default_icon": "assets/icon19.png",
+    "default_popup": "html/popup.html"
+  },
+  "options_page": "html/popup.html",
+  "permissions": [
+    "notifications",
+    "alarms",
+    "storage",
+    "background",
+    "webRequest",
+    "webRequestBlocking",
+    "*://steamcommunity.com/*",
+    "*://*.steampowered.com/*",
+    "http://*.steamstatic.com/*",
+    "*://steamrep.com/*"
+  ],
+  "externally_connectable":{ 
+	"matches":["*://steamcommunity.com/*"]
+   }, 
+  "web_accessible_resources": [
+    "css/*.css",
+    "js/*.js",
+    "js/*.min.js.map",
+    "js/jquery-1.10.2.min.map",
+    "assets/*",
+    "js/lang/*"
+  ],
+  "homepage_url": "https://chrome.google.com/webstore/detail/steam-inventory-helper/cmeakgjggjdlcpncigglobpjbkabhmjl"
+}

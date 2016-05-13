@@ -1,0 +1,126 @@
+{
+  "about": {
+    "description": "",
+    "message": "Sobre"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "Descripción de la extensión",
+    "message": "Da acceso a muchas utilidades para el inventario de steam y el mercado(Ofrece notificaciones, ventas rápida, compras, ofrecer intercambios, revisar precios...)"
+  },
+  "faq": {
+    "description": "Preguntas frecuentes",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "es"
+  },
+  "settings": {
+    "description": "",
+    "message": "Parámetros"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Respuesta automatica"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Bloquear invitaciones bajo"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Comprar set\" Botones"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Divisa"
+  },
+  "settings_custombuttons": {
+    "description": "Gestionar botones personalizados para ventanas de intercambio",
+    "message": "Personalizar botones"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Visualizar notificaciones"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Mostrar precio del vector"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Destacar sobrevaluados"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignorar invitaciones bajo"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Lenguaje"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Retraso entre listados"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Tamaño de historial de ventas"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Number of listings"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Sonido de notificaciones"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Sound volumn"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Necesitas refrescar las paginas para que tome efecto"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Declinar ofertas no disponibles"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Retraso entre control de ofertas"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Obtener precios automaticamente al ofertar"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Compra rápida\" boton"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Venta rápida\" botón"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Diferencia venta rápida"
+  },
+  "settings_showsteamrep": {
+    "description": "Mostrar Steamrep panel en paginas de invitacion",
+    "message": "Mostrar Steamrep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Simplify UI"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Fila total"
+  }
+}

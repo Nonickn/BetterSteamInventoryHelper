@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "Информация"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "Extension's description",
+    "message": "Предлага много функции за общността и маркета (известия при оферти,бързо продаване, купуване, предлагане на размяна, проверяване на цените...)"
+  },
+  "faq": {
+    "description": "Frequently asked questions",
+    "message": "ЧЗВ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "bg"
+  },
+  "settings": {
+    "description": "",
+    "message": "Настройки"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Автоматичен отговор"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Блокирай покани под"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Купи комплект\" бутони"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Валута"
+  },
+  "settings_custombuttons": {
+    "description": "Manage custom buttons for trade offer windows",
+    "message": "Персонализирани бутони"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Показване на известия"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Покажи цена на вектора"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Highlight overpriced"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Игнорирай покани под"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Език"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Изчакване между обяви"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "History page size"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Брой на обявите"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Звук при известие"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Sound volume"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Трябва да презаредите страницата за да влязат новите настроики в ефект."
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Decline unavailable offers"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Проверка на цената на оферта през"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Автоматично взимане на цените при оферта"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Бързо Купуване\" бутони"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Бързо продаване\" бутони"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Разлика при бързо продаване"
+  },
+  "settings_showsteamrep": {
+    "description": "Show Steamrep panel on invites page",
+    "message": "Показване на Steamrep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Опростяване на UI-то"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Общ ред"
+  }
+}

@@ -1,0 +1,44 @@
+﻿.profile-info {
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    float: left;
+    width: 500px;
+    display: none;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+.ban-info {
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    float: left;
+    width: 300px;
+    display: none;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+
+    .ban-info.caution {
+        border-color: #b6ff00;
+    }
+
+    .ban-info.warning {
+        border-color: #f00;
+    }
+
+.rep {
+    clear: both;
+}
+
+    .rep:after {
+        content: '';
+        clear: both;
+        height: 0px;
+        display: block;
+    }
+
+    .rep strong {
+        color: #FFF;
+    }

@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "Про"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "extension_description": {
+    "description": "Опис розширення",
+    "message": "Забезпечує багато нових можливостей для інвентаря і ринку Steam (сповіщення про обміни, швидка продажа, купівля, надсилання обмінів, перевірка ціни і тд.)"
+  },
+  "faq": {
+    "description": "Часті питання",
+    "message": "ЧаПи"
+  },
+  "langcode": {
+    "description": "",
+    "message": "uk"
+  },
+  "settings": {
+    "description": "",
+    "message": "Налаштування"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Автоматична відповідь"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Заблокувати запрошення нижче"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Встановити купівлю\" кнопки"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Валюта"
+  },
+  "settings_custombuttons": {
+    "description": "Керування користувацькими кнопками для вікна обміну",
+    "message": "Користувацькі кнопки"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Показувати сповіщення"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Показати вектор ціни"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Виділити зависоку ціну"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ігнорувати запрошення нижче"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Мова"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Затримка між оновленнями"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Розмір сторінки історії"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Кількість лотів"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Звук сповіщення"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Гучність звуку"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Оновіть поточну сторінку, щоб зміни набули чинності"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Відхиляти неактивні обміни"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Затримка між перевіркою ціни в обміні"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Автоматично отривувати ціну коли є обмін"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Швидка купівля\" кнопки"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Швидка продажа\" кнопка"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Різниця швидкої продажі"
+  },
+  "settings_showsteamrep": {
+    "description": "Показувати панель  Steamrep на сторінці запрошень",
+    "message": "Показувати Steamrep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Simplify UI"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Всього рядків"
+  }
+}

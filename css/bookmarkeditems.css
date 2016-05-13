@@ -1,0 +1,84 @@
+﻿.bookmark-header {
+    background: #ddd;
+    margin-bottom: 10px;
+}
+
+    .bookmark-header:after {
+        content: ' ';
+        display: block;
+        clear: both;
+    }
+
+    .bookmark-header > div {
+        float: left;
+        background: #ddd;
+        line-height: 28px;
+        padding-left: 10px;
+        font-weight: bold;
+        overflow: hidden;
+        color: #220404;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .bookmark-header .name {
+        width: 50%;
+    }
+
+    .bookmark-header .volume {
+        width: 25%;
+    }
+
+    .bookmark-header .price {
+        width: 25%;
+    }
+
+.bookmark-row {
+    margin-bottom: 5px;
+    clear: both;
+}
+
+    .bookmark-row:after {
+        content: ' ';
+        display: block;
+        clear: both;
+    }
+
+    .bookmark-row > div {
+        float: left;
+        background: #ddd;
+        line-height: 19px;
+        padding: 5px 5px 5px 10px;
+        overflow: hidden;
+        height:48px;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .bookmark-row .name {
+        width: 50%;
+        white-space: nowrap;
+        -ms-text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+    }
+
+        .bookmark-row .name img {
+            float: left;
+            margin-right: 10px;
+            background: #333;
+        }
+
+        .bookmark-row .name a {
+            text-decoration: none;
+            color: #111;
+            font-weight: bold;
+        }
+        .bookmark-row .volume {
+            width:25%;
+        }
+        .bookmark-row .price {
+            width:25%;
+        }

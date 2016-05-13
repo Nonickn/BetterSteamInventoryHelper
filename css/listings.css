@@ -1,0 +1,108 @@
+﻿.add-to-bookmarks {
+    margin: 0px;
+    padding: 0px;
+    display: none;
+    background: #1F1F1F;
+    border: 1px #808080 solid;
+}
+
+    .add-to-bookmarks li {
+        list-style: none;
+        line-height: 24px;
+    }
+
+        .add-to-bookmarks li a {
+            display: block;
+            padding-left: 20px;
+        }
+
+            .add-to-bookmarks li a:hover {
+                background: #2F2F2F;
+            }
+
+.add-to-bookmarks-link {
+    background: url(http://store.akamai.steamstatic.com/public/images/v6/icon_bucket_new.png) center left 5px no-repeat;
+    padding: 3px 3px 3px 25px;
+    margin: 7px 0px;
+    display: block;
+    border: 1px #808080 solid;
+    line-height: 24px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.add-to-bookmarks-container {
+    position: absolute;
+    top: -28px;
+    right: 15px;
+    min-width: 180px;
+}
+
+    .add-to-bookmarks-container .arrow {
+        float: right;
+    }
+
+.sih-market-action {
+    font-size: .8em;
+    color: #666;
+}
+
+    .sih-market-action:hover {
+        color: #999;
+    }
+
+.sih-fraud {
+    font-size: .8em;
+    color: #E33;
+}
+
+.sih-images {
+    position: absolute;
+    top: 12px;
+    right: 300px;
+    z-index: 3;
+}
+
+    .sih-images img {
+        width: 48px;
+        opacity: .4;
+        margin-top: 8px;
+        cursor: pointer;
+        z-index: 3;
+        -moz-transition: .1s;
+        -o-transition: .1s;
+        -webkit-transition: .1s;
+        transition: .1s;
+    }
+
+        .sih-images img:hover {
+            opacity: 1;
+            width: 96px;
+            margin: -16px -24px -24px -24px;
+            z-index: 4;
+            -moz-transition: .2s;
+            -o-transition: .2s;
+            -webkit-transition: .2s;
+            transition: .2s;
+        }
+
+.market_listing_row .market_listing_item_name_block {
+    position: relative;
+    z-index: 2;
+}
+
+.sih-inspect-magnifier {
+    display: none;
+    position: absolute;
+    height: 62px;
+    width: 62px;
+    left: 6px;
+    top: 6px;
+    background: #FFF url(../assets/magnifier.png) center center no-repeat;
+    opacity: .4;
+}
+
+.market_listing_row:hover .sih-inspect-magnifier {
+    display: block;
+}

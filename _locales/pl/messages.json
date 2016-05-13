@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "O nas"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "extension_description": {
+    "description": "Opis rozszerzenia",
+    "message": "Udostêpnia wiele narzêdzi do ekwipunku i rynku (powiadomienia og³oszeñ, szybka sprzeda¿, zakup, oferty wymian, sprawdzanie cen...)"
+  },
+  "faq": {
+    "description": "Najczêsciej zadawane pytania",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "pl"
+  },
+  "settings": {
+    "description": "",
+    "message": "Ustawienia"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Automatyczna odpowiedŸ"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Block invites below"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "Przycisk \"Kupno zestawu\""
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Waluta"
+  },
+  "settings_custombuttons": {
+    "description": "Zarz¹dzanie niestandardowymi przyciskami do okna wymiany",
+    "message": "W³asne przyciski"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Poka¿ powiadomienia"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Poka¿ wykres cen"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Highlight overpriced"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignore invites below"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Jêzyk"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "OpóŸnienia pomiêdzy ofertami"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "History page size"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Liczba ofert"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Powiadomienia dzwiêkowe"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Sound volume"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Musisz otworzyæ na nowo t¹ podstrone aby zastosowaæ nowe zmiany"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Decline unavailable offers"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Opó¿nienie kontroli cen"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Automatycznie pobieraj ceny w trakcie wymiany"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "Przycisk \"Szybki zakup\""
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "Przycisk \"Szybka sprzeda¿\""
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Ró¿nica \"Szybka sprzeda¿\""
+  },
+  "settings_showsteamrep": {
+    "description": "Pokazuje SteamRep na stronie zaproszeñ",
+    "message": "Poka¿ SteamRep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "£atwiejszy Interfejs Graficzny"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Razem wierszy"
+  }
+}

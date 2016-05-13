@@ -1,0 +1,126 @@
+{
+  "about": {
+    "description": "",
+    "message": "Über uns"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Lesezeichen"
+  },
+  "extension_description": {
+    "description": "Beschreibung der Erweiterung",
+    "message": "Tools für das Steam Inventar und den Steam Community Mark (Benachrichtigungen für Handelsangebote, Schnellverkauf, Kaufen, Handelsangebote machen, Preise anzeigen...)"
+  },
+  "faq": {
+    "description": "Häufig gestellte Fragen",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "de"
+  },
+  "settings": {
+    "description": "",
+    "message": "Einstellungen"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Automatisch antworten"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Einladungen blockieren"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "\"Set kaufen\" Knöpfe"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Währung"
+  },
+  "settings_custombuttons": {
+    "description": "Verwaltung von eigenen Knöpfen zur Handelsverwaltung",
+    "message": "Eigene Knöpfe"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Benachrichtigungen anzeigen"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Vektorpreis anzeigen"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Überteuerte Gegenstände markieren"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Einladungen ignorieren"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Sprache"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Verzögerung zwischen Auflistungen"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Größe des Verlaufs"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Anzahl d. Auflistungen"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Benachrichtigungston"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Lautstärke"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Aktualisiern um Änderungen anzuzeigen"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Nicht verfügbare Angebote ablehnen"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Verzögerung des Preises bei Handelsangeboten"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Preise bei Handelsangeboten automatisch anzeigen"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "\"Schnellkauf\" Knöpfe"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "\"Schnellverkauf\" Knöpfe"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Unterschied der Schnellverkaufspreise"
+  },
+  "settings_showsteamrep": {
+    "description": "Steamrep im Einladungsfenster anzeigen",
+    "message": "Steamrep anzeigen"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "UI vereinfachen"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Gesamte Reihe"
+  }
+}

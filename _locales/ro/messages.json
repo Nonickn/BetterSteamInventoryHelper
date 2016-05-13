@@ -1,0 +1,126 @@
+﻿{
+  "about": {
+    "description": "",
+    "message": "Despre"
+  },
+  "bookmarks": {
+    "description": "",
+    "message": "Bookmark-uri"
+  },
+  "extension_description": {
+    "description": "Extension's description",
+    "message": "Provides many utilities for steam inventory and market (offers notification, quick selling, buying, offering trades, price check...)"
+  },
+  "faq": {
+    "description": "Frequently asked questions",
+    "message": "FAQ"
+  },
+  "langcode": {
+    "description": "",
+    "message": "ro"
+  },
+  "settings": {
+    "description": "",
+    "message": "Setări"
+  },
+  "settings_autoreply": {
+    "description": "",
+    "message": "Auto reply"
+  },
+  "settings_blockinvites": {
+    "description": "",
+    "message": "Blochează invitațiile de mai jos"
+  },
+  "settings_buyset": {
+    "description": "",
+    "message": "Butoanele pentru cumpărare în set"
+  },
+  "settings_currency": {
+    "description": "",
+    "message": "Monedă"
+  },
+  "settings_custombuttons": {
+    "description": "Manage custom buttons for trade offer windows",
+    "message": "Butoane personalizate"
+  },
+  "settings_displaynof": {
+    "description": "",
+    "message": "Arată notificările"
+  },
+  "settings_displayvector": {
+    "description": "",
+    "message": "Arată prețul vector"
+  },
+  "settings_highligh": {
+    "description": "",
+    "message": "Evidențiază prețurile ridicate"
+  },
+  "settings_ignoreinvites": {
+    "description": "",
+    "message": "Ignoră invitațiile de mai jos"
+  },
+  "settings_language": {
+    "description": "",
+    "message": "Limbă"
+  },
+  "settings_listdelay": {
+    "description": "",
+    "message": "Delay-ul dintre listări"
+  },
+  "settings_no_history": {
+    "description": "",
+    "message": "Mărimea paginii istoricului"
+  },
+  "settings_no_listings": {
+    "description": "",
+    "message": "Numărul listărilor"
+  },
+  "settings_nofsound": {
+    "description": "",
+    "message": "Sunet notificare"
+  },
+  "settings_nofsound_vol": {
+    "description": "",
+    "message": "Volum sunet"
+  },
+  "settings_note": {
+    "description": "",
+    "message": "Trebuie să da-ți refresh la pagină ca setările să aibă efect"
+  },
+  "settings_offer_autodecline": {
+    "description": "",
+    "message": "Declină ofertele expirate"
+  },
+  "settings_offer_delay": {
+    "description": "",
+    "message": "Delay la verificare preț"
+  },
+  "settings_offer_getprice": {
+    "description": "",
+    "message": "Calculează auto prețurile când primesc ofertă"
+  },
+  "settings_quickbuy": {
+    "description": "",
+    "message": "Buton cumpărare rapidă"
+  },
+  "settings_quicksell": {
+    "description": "",
+    "message": "Butonul vânzare rapidă (Quicksell)"
+  },
+  "settings_quickselldif": {
+    "description": "",
+    "message": "Diferență vânzare rapidă"
+  },
+  "settings_showsteamrep": {
+    "description": "Show Steamrep panel on invites page",
+    "message": "Arată SteamRep"
+  },
+  "settings_simpify": {
+    "description": "",
+    "message": "Simplifică interfața"
+  },
+  "settings_totalrow": {
+    "description": "",
+    "message": "Toate rândurile"
+  }
+}

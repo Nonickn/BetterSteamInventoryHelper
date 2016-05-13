@@ -1,0 +1,36 @@
+﻿.custom-buttons {
+    margin-bottom: 15px;
+}
+
+.custom-button {
+    padding: 3px 20px 3px 5px;
+    border: 1px solid;
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    text-decoration: none;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+    .custom-button a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: .8em;
+        position: absolute;
+        top: 2px;
+        right: 2px;
+        line-height: 12px;
+        width: 12px;
+        text-align: center;
+        border-radius: 2px;
+        background-color: rgba(33,33,33,0.5);
+        padding: 2px;
+    }
+    .custom-button.active {
+        color:#FFF;
+        background-color:rgb(0, 0, 238);
+        border:rgb(0, 0, 238) 1px solid;
+    }

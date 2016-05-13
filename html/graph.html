@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Market graph</title>
+    <link href="../css/general.css" rel="stylesheet" type="text/css" />
+    <link href="../css/custombuttons.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div style="float: left">
+        <a href="#" id="bt_Start" class="custom-button">Start collecting data</a>
+        <a href="#" id="bt_Clear" class="custom-button">Reset</a>
+        <a href="#" id="bt_Fix" class="custom-button">Fix data</a>
+        <a href="#" id="bt_Show" class="custom-button">Show datatable</a>
+        <a href="#" id="bt_Hide" class="custom-button" style="display: none">Hide datatable</a>
+        <select id="cbChartType" class="custom-button">
+            <option value="spline">Spline</option>
+            <option value="line">Line</option>
+            <option value="column">Column</option>
+            <option value="bar">Bar</option>
+            <option value="scatter">Scatter</option>
+            <option value="area">Area</option>
+        </select>
+    </div>
+    <div style="float: right" id="div_period">
+        <a href="#" id="bt_Alltime" class="custom-button active">All the time</a>
+        <a href="#" id="bt_thisyear" class="custom-button">This year</a>
+        <a href="#" id="bt_30days" class="custom-button">Last 30 days</a>
+        <a href="#" id="bt_7days" class="custom-button">Last 7 days</a>
+    </div>
+    <div>
+        <span id="spanGraphData"></span>
+    </div>
+    <div id="divChart"></div>
+    <script src="../js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="../js/lang/common.js" type="text/javascript"></script>
+    <script src="../js/highchart/highcharts.js" type="text/javascript"></script>
+    <!--<script src="../js/highchart/themes/grid.js" type="text/javascript"></script>-->
+    <script src="../js/pages/graph.js" type="text/javascript"></script>
+</body>
+</html>

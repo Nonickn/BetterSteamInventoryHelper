@@ -1,0 +1,406 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+    <title>Steam inventory helper options</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="../css/general.css" rel="stylesheet" type="text/css" />
+    <link href="../css/popup.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="main-panel">
+        <div class="tabs">
+            <a href="tradeoffers.html" class="tab">Trade offers
+            </a>
+            <a href="bookmarkeditems.html" class="tab" data-msgname="bookmarks">Bookmarks
+            </a>
+            <a href="#" class="tab active" data-msgname="settings">Settings
+            </a>
+            <a href="graph.html" target="_blank" class="tab">Market graph
+            </a>
+            <a href="faq.html" class="tab" data-msgname="faq">FAQ
+            </a>
+            <a href="about.html" class="tab" data-msgname="about">About
+            </a>
+        </div>
+        <div class="content">
+            <h4>Inventory</h4>
+            <div class="row">
+                <div class="left" data-msgname="settings_buyset">"Buy set" buttons:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_buySet" id="ck_buySet" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_quicksell">"Quick sell" button:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_quickSell" id="ck_quickSell" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_quickselldif">Quick sell dif:</div>
+                <div class="right">
+                    <input type="number" step="0.01" id="txt_fastsell" class="align-right" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_listdelay">Delay between listings:</div>
+                <div class="right">
+                    <input type="number" step="100" id="txt_delay" class="align-right" style="width: 60px" />
+                    ms
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Hide default price info:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_hidedefaultprice" id="ck_hidedefaultprice" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_simpify">Simplify UI:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_simpify" id="ck_simpify" />
+                </div>
+            </div>
+            <h4>Listing & market</h4>
+            <div class="row">
+                <div class="left" data-msgname="settings_quickbuy">"Quick buy" buttons:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_quickBuy" id="ck_quickBuy" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_no_listings">Number of listings:</div>
+                <div class="right">
+                    <input type="range" min="5" max="100" name="txt_resultnumber" id="txt_resultnumber" class="number" />
+                    <span id="lb_resultnumber">10</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_no_history">History page size:</div>
+                <div class="right">
+                    <input type="range" min="5" max="100" name="txt_historypagesize" id="txt_historypagesize" class="number" />
+                    <span id="lb_historypagesize">10</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_totalrow">Total row:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_totalrow" id="ck_totalrow" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_highligh">Highlight overpriced:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_highlight" id="ck_highlight" />
+                </div>
+            </div>
+            <h4>Trade offer</h4>
+            <div class="row">
+                <div class="left" data-msgname="settings_offer_getprice">Auto get prices when offer:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_autocheckofferprice" id="ck_autocheckofferprice" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_offer_autodecline">Decline unavailable offers:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_autodecline" id="ck_autodecline" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_offer_delay">Offer price check delay:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_offerdelay" id="ck_offerdelay" />
+                    <input type="text" id="txt_offerdelay" class="align-right" style="width: 40px" />
+                    ms
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Quick accept:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_quickoffer" id="ck_quickoffer" />
+                    Delay
+                    <input type="number" step="5" min="0" max="30" id="txt_qodelay" class="align-right" style="width: 40px" />
+                    s
+                    <label>
+                        <input type="checkbox" name="ck_quickofferprompt" id="ck_quickofferprompt" />
+                        show confirm dialog</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_custombuttons">
+                    Custom buttons:
+                </div>
+                <div class="right">
+                    <a href="custombuttons.html" target="_blank">Manage</a>
+                </div>
+            </div>
+            <h4>Friend requests (0 = off)</h4>
+            <div class="row">
+                <div class="left" data-msgname="settings_ignoreinvites">Ignore invites below:</div>
+                <div class="right">
+                    <input type="number" min="0" step="1" id="txt_ignore" class="align-right" style="width: 60px" />
+                    Steam level or
+                    <label for="ck_privateignore">
+                        <input type="checkbox" name="ck_privateignore" id="ck_privateignore" />
+                        private</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_blockinvites">Block invites below:</div>
+                <div class="right">
+                    <input type="number" min="0" step="1" id="txt_block" class="align-right" style="width: 60px" />
+                    Steam level
+                    or
+                    <label for="ck_privateblock">
+                        <input type="checkbox" name="ck_privateblock" id="ck_privateblock" />
+                        private</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Total:</div>
+                <div class="right">
+                    <span id="sp_friendrequests"></span>
+                    <a href="#" id="bt_resetrq">Reset</a>
+                </div>
+            </div>
+            <h4>External prices</h4>
+            <div class="row">
+                <div class="left">Show external price:</div>
+                <div class="right">
+                    <label>
+                        <input type="checkbox" name="extprice" id="extprice" />
+                    </label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Use for mass listing:</div>
+                <div class="right">
+                    <label>
+                        <input type="checkbox" name="extmasslisting" id="extmasslisting" />
+                    </label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Background color:</div>
+                <div class="right">
+                    <label>
+                        <input type="color" id="extbgcolor" value="#0000ff" style="width:85%;">
+                    </label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Text color:</div>
+                <div class="right">
+                    <label>
+                        <input type="color" id="exttextcolor" value="#FFFFFF" style="width:85%;">
+                    </label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Custom price provider:</div>
+                <div class="right">
+                    <label>
+                        <input type="url" id="extcustom" value="" style="width:85%;">
+                    </label>
+                </div>
+            </div>
+            <h4>General</h4>
+            <div class="row">
+                <div class="left">Auto get prices:</div>
+                <div class="right">
+                    <label>
+                        <input type="checkbox" name="ck_agp_hover" id="ck_agp_hover" />
+                        On hover
+                    </label>
+                    <label>
+                        <input type="checkbox" name="ck_agp_gem" id="ck_agp_gem" />
+                        Dota 2 gems
+                    </label>
+                    <label>
+                        <input type="checkbox" name="ck_agp_sticker" id="ck_agp_sticker" />
+                        CS:GO stickers
+                    </label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">Get price delay (ms):</div>
+                <div class="right">
+                    Success
+                    <input type="number" step="500" id="txt_gpdelayscc" style="width: 60px" class="align-right" />
+                    Error
+                    <input type="number" step="500" id="txt_gpdelayerr" style="width: 60px" class="align-right" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_displaynof">Display notifications:</div>
+                <div class="right">
+                    <label>
+                        <input type="checkbox" name="ck_nof" id="ck_nof" />
+                        Trade offers</label>
+                    <label>
+                        <input type="checkbox" name="ck_nof_friend" id="ck_nof_friend" />
+                        Friend requests</label>
+                    <label>
+                        <input type="checkbox" name="ck_nof_comment" id="ck_nof_comment" />
+                        Comments</label>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_nofsound">
+                    Notification sound:
+                </div>
+                <div class="right">
+                    <select id="cb_sound">
+                        <option value="">none</option>
+                        <option value="coins.wav">Dota 2 coin</option>
+                        <option value="offersound.mp3">Chime 1</option>
+                        <option value="nof.mp3">Chime 2</option>
+                        <option value="Communication-channel.mp3">Communication</option>
+                        <option value="Gets-in-the-way.mp3">Get in the way</option>
+                        <option value="Just-like-magic.mp3">Just like magic</option>
+                        <option value="Isnt-it.mp3">Isn't it</option>
+                        <option value="System-fault.mp3">System fault</option>
+                        <option value="custom">Custom</option>
+                    </select>
+                    <input type="text" placeholder="Url to custom sound" id="txt_custom" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_nofsound_vol">Sound volume:</div>
+                <div class="right">
+                    <input type="range" min="0" max="100" name="txt_volumn" id="txt_volumn" class="number" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_displayvector">Show vector price:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_nof" id="ck_medium" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_showsteamrep">Show Steamrep:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_steamrep" id="ck_steamrep" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" >Hide sponsor's banners:</div>
+                <div class="right">
+                    <input type="checkbox" name="ck_hidebanner" id="ck_hidebanner" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">
+                    Bookmarks:
+                </div>
+                <div class="right">
+                    <label>
+                        <input type="checkbox" name="ck_bookmarks" id="ck_bookmarks" />
+                        show</label>
+                    <a href="bookmarks.html" target="_blank">Manage categories</a>
+                    <a href="#" id="lnk_clearbookmarks">Clear bookmarks</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left">SteamAPI key</div>
+                <div class="right">
+                    <input type="text" name="txt_apikey" id="txt_apikey" placeholder="Blank for default key" />
+                    <a href="https://steamcommunity.com/dev/apikey" target="_blank">Get your key</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_currency">
+                    Currency:
+                </div>
+                <div class="right">
+                    <select id="cb_currency">
+                        <option value="">Auto (use wallet currency)</option>
+                        <option value="1">&#36; (USD)</option>
+                        <option value="2">&#163; (GBP)</option>
+                        <option value="3">&#8364; (EUR)</option>
+                        <option value="4">CHF</option>
+                        <option value="5">p&#1091;&#1073;. (RUB)</option>
+                        <option value="7">&#82;&#36; (BRL)</option>
+                        <option value="8">&#165; (JPY)</option>
+                        <option value="9">kr (NOK)</option>
+                        <option value="10">Rp (IDR)</option>
+                        <option value="11">RM (MYR)</option>
+                        <option value="12">P (PHP)</option>
+                        <option value="13">S&#36; (SGD)</option>
+                        <option value="14">&#x0e3f; (THB)</option>
+                        <option value="15">&#8363; (VND)</option>
+                        <option value="16">&#8361; (KPW)</option>
+                        <option value="17">TL (TRY)</option>
+                        <option value="18">&#8372; (UAH)</option>
+                        <option value="19">Mex&#36; (MXN)</option>
+                        <option value="20">CDN$ (CAD)</option>
+                        <option value="21">A&#36; (AUD)</option>
+                        <option value="22">NZ&#36; (NZD)</option>
+                        <option value="23">&#165; (CNY)</option>
+                        <option value="24">&#8377; (INR)</option>
+                        <option value="25">CLP$ (CLP)</option>
+                        <option value="26">S/. (PEN)</option>
+                        <option value="27">COL$ (COP)</option>
+                        <option value="28">R (ZAR)</option>
+                        <option value="29">HK$ (HKD)</option>
+                        <option value="30">NT$ (TWD)</option>
+                        <option value="31">SR (SAR)</option>
+                        <option value="32">AED (AED)</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="left" data-msgname="settings_language">
+                    Language:
+                </div>
+                <div class="right">
+                    <select id="cb_lang">
+                        <option value="">Auto (use browser locale)</option>
+                        <option value="bg">български език</option>
+                        <option value="cs">čeština</option>
+                        <option value="de">Deutsch</option>
+                        <option value="en">English</option>
+                        <option value="es">Español</option>
+                        <option value="fr">Français</option>
+                        <option value="it">Italiano</option>
+                        <option value="ka">ქართული</option>
+                        <option value="lv">Latviešu valoda</option>
+                        <option value="pl">Polski</option>
+                        <option value="pt">Português-Brasil</option>
+                        <option value="ro">Română</option>
+                        <option value="ru">Русский</option>
+                        <option value="sv">Svenska</option>
+                        <option value="tr">Türkçe</option>
+                        <option value="vi">Tiếng Việt</option>
+                        <option value="uk">Українська</option>
+                        <option value="zh">中文</option>
+                    </select>
+                </div>
+            </div>
+            <!--<div class="row">
+                <div class="left" data-msgname="settings_autoreply">
+                    Auto reply:
+                </div>
+                <div class="right">
+                    <a href="autoreply.html" target="_blank">Manange</a>
+                </div>
+            </div>-->
+            <div class="row">
+                <div class="right">
+                    <a href="#" id="lnk_reset">Reset to defaults</a>
+
+                </div>
+            </div>
+            <div class="row">
+                <i data-msgname="settings_note">You need to refresh current pages for changes to take effect</i>
+            </div>
+
+        </div>
+    </div>
+    <script src="../js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="../js/lang/common.js" type="text/javascript"></script>
+    <script src="../js/pages/popup.js" type="text/javascript"></script>
+</body>
+</html>
